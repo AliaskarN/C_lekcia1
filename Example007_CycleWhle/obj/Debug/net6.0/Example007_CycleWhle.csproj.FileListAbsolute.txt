@@ -1,0 +1,15 @@
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\C_plus_lekcia1\Example007_CycleWhle\bin\Debug\net6.0\Example007_CycleWhle.exe
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\C_plus_lekcia1\Example007_CycleWhle\bin\Debug\net6.0\Example007_CycleWhle.deps.json
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\C_plus_lekcia1\Example007_CycleWhle\bin\Debug\net6.0\Example007_CycleWhle.runtimeconfig.json
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\C_plus_lekcia1\Example007_CycleWhle\bin\Debug\net6.0\Example007_CycleWhle.dll
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\C_plus_lekcia1\Example007_CycleWhle\bin\Debug\net6.0\Example007_CycleWhle.pdb
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\C_plus_lekcia1\Example007_CycleWhle\obj\Debug\net6.0\Example007_CycleWhle.csproj.AssemblyReference.cache
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\C_plus_lekcia1\Example007_CycleWhle\obj\Debug\net6.0\Example007_CycleWhle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\C_plus_lekcia1\Example007_CycleWhle\obj\Debug\net6.0\Example007_CycleWhle.AssemblyInfoInputs.cache
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\C_plus_lekcia1\Example007_CycleWhle\obj\Debug\net6.0\Example007_CycleWhle.AssemblyInfo.cs
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\C_plus_lekcia1\Example007_CycleWhle\obj\Debug\net6.0\Example007_CycleWhle.csproj.CoreCompileInputs.cache
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\C_plus_lekcia1\Example007_CycleWhle\obj\Debug\net6.0\Example007_CycleWhle.dll
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\C_plus_lekcia1\Example007_CycleWhle\obj\Debug\net6.0\refint\Example007_CycleWhle.dll
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\C_plus_lekcia1\Example007_CycleWhle\obj\Debug\net6.0\Example007_CycleWhle.pdb
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\C_plus_lekcia1\Example007_CycleWhle\obj\Debug\net6.0\Example007_CycleWhle.genruntimeconfig.cache
+C:\Users\Aliaskar\YandexDisk\системный адм-р\GeekBrain\C_plusSub\C_plus_lekcia1\Example007_CycleWhle\obj\Debug\net6.0\ref\Example007_CycleWhle.dll
